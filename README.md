@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Sipher+%F0%9F%91%8B;Backend+Developer+%7C+London%2C+UK;Building+scalable+systems+%26+creative+code" alt="Typing intro" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=160&width=100%&color=0:000000,50:001a00,100:003300&text=siph-r&fontSize=42&fontColor=00FF41&animation=twinkling" alt="header"/>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=wake+up%2C+sipher...;the+matrix+has+you...;follow+the+white+rabbit.;knock%2C+knock%2C+sipher..." alt="typing"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2563EB&height=120&section=footer&text=&fontSize=0" width="100%" alt="wave footer"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=40&width=100%&color=0:000000,100:001100&section=footer&text=&fontSize=0" width="100%" alt="divider"/>
 
 </div>
 
@@ -12,108 +12,143 @@
 
 <div align="center">
 
-### Live Discord Presence
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/434936471305060352?theme=dark&hideDiscrim=true&borderRadius=20px&idleMessage=Probably+coding...&bg=0d1117)](https://discord.com/users/434936471305060352)
-
-[![Discord](https://img.shields.io/badge/Discord-siph--r-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/434936471305060352)
-[![Email](https://img.shields.io/badge/Email-sipher%40sipher.ws-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sipher@sipher.ws)
-[![Telegram](https://img.shields.io/badge/Telegram-@decr__pt-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/decr_pt)
-[![Portfolio](https://img.shields.io/badge/Portfolio-sipher.ws-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sipher.ws)
-
-</div>
-
----
-
-## About Me
-
-```yaml
-name: Sipher
-location: London, UK
-focus: Backend Development
-passion: Scalable systems & creative coding
-hobbies: Gaming, exploring new tech, drawing
-email: sipher@sipher.ws
-discord: "@siph-r"
-github: siph-r
+```diff
++ SYSTEM::ONLINE
++ NODE::siph-r
++ STATUS::█ ENCRYPTED █
 ```
 
-I'm a **20-year-old backend developer** based in London, passionate about building robust APIs, automation tools, and systems that scale. When I'm not shipping code, you'll find me gaming, sketching, or diving into the latest tech.
+<br/>
+
+### ◈ SIGNAL :: DISCORD ◈
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/249978879865913352?theme=dark&hideDiscrim=true&borderRadius=8px&idleMessage=█+signal+lost+█&bg=000000&showDisplayName=true)](https://discord.com/users/249978879865913352)
+
+<br/>
+
+[![Discord](https://img.shields.io/badge/█_DISCORD-249978879865913352-000000?style=for-the-badge&labelColor=001a00&color=00FF41&logo=discord&logoColor=00FF41)](https://discord.com/users/249978879865913352)
+[![GitHub](https://img.shields.io/badge/█_GITHUB-siph--r-000000?style=for-the-badge&labelColor=001a00&color=00FF41&logo=github&logoColor=00FF41)](https://github.com/siph-r)
+[![Email](https://img.shields.io/badge/█_CONTACT-sipher%40sipher.ws-000000?style=for-the-badge&labelColor=001a00&color=00FF41&logo=gmail&logoColor=00FF41)](mailto:sipher@sipher.ws)
+[![Telegram](https://img.shields.io/badge/█_TELEGRAM-@decr__pt-000000?style=for-the-badge&labelColor=001a00&color=00FF41&logo=telegram&logoColor=00FF41)](https://t.me/decr_pt)
+
+</div>
 
 ---
 
-## Tech Stack
+## `> whoami`
+
+```ini
+[identity]
+  handle     = sipher
+  alias      = siph-r
+  location   = ████████, UK
+  clearance  = ████████
+
+[directives]
+  primary    = backend systems
+  secondary  = automation & APIs
+  tertiary   = ████████████████
+
+[channels]
+  discord    = 249978879865913352
+  github     = siph-r
+  email      = sipher@sipher.ws
+```
+
+> *"There is no spoon. There is only code."*
+
+<br/>
+
+---
+
+## `> ls /skills`
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,go,nodejs,cs,docker,git,postgres,mongodb,linux,nginx&theme=dark&perline=5" alt="skills"/>
+
+<br/>
+
+![Python](https://img.shields.io/badge/█_PYTHON-000000?style=flat-square&labelColor=001a00&color=00FF41&logo=python&logoColor=00FF41)
+![Go](https://img.shields.io/badge/█_GOLANG-000000?style=flat-square&labelColor=001a00&color=00FF41&logo=go&logoColor=00FF41)
+![Node.js](https://img.shields.io/badge/█_NODE-000000?style=flat-square&labelColor=001a00&color=00FF41&logo=nodedotjs&logoColor=00FF41)
+![C#](https://img.shields.io/badge/█_CSHARP-000000?style=flat-square&labelColor=001a00&color=00FF41&logo=csharp&logoColor=00FF41)
+![Docker](https://img.shields.io/badge/█_DOCKER-000000?style=flat-square&labelColor=001a00&color=00FF41&logo=docker&logoColor=00FF41)
 
 </div>
 
 <br/>
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,go,nodejs,cs,docker,git,postgres,mongodb,linux,nginx&perline=5" alt="Skills" />
-
-</div>
-
 ---
 
-## GitHub Analytics
+## `> cat /dev/stats`
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=siph-r&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=2563EB&text_color=c9d1d9" alt="GitHub stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siph-r&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9&langs_count=8" alt="Top languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=siph-r&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00CC33&ring_color=00FF41"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siph-r&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00CC33&langs_count=8"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=siph-r&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=2563EB&currStreakLabel=7C3AED" alt="GitHub streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=siph-r&theme=chartreuse-dark&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00CC33&dates=006622" alt="streak"/>
 
 </div>
 
----
-
-## Featured Projects
-
-| Project | Description |
-| :--- | :--- |
-| **AI Chatbot** | Intelligent chatbot leveraging NLP technologies |
-| **REST APIs** | Countless RESTful APIs for various services & apps |
-| **Portfolio Site** | Interactive terminal-based portfolio at [sipher.ws](https://sipher.ws) |
-| **Telegram Crypto Bot** | Monitors crypto wallets & sends alerts via Telegram |
-| **Automation Suite** | Instagram, TikTok & Twitter engagement workflows |
+<br/>
 
 ---
 
-## Activity Graph
+## `> ls /projects --classified`
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  FILE                    │  STATUS    │  DESCRIPTION       │
+├─────────────────────────────────────────────────────────────┤
+│  ai_chatbot.sys          │  [ACTIVE]  │  neural interface  │
+│  rest_api_mesh/          │  [ACTIVE]  │  countless nodes   │
+│  portfolio.terminal      │  [LIVE]    │  you are here      │
+│  crypto_bot.telegram     │  [ACTIVE]  │  wallet sentinel   │
+│  automation_suite/       │  [REDACTED]│  ████████████████  │
+└─────────────────────────────────────────────────────────────┘
+```
+
+<br/>
+
+---
+
+## `> tail -f /var/log/activity`
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/siph-r/siph-r/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/siph-r/siph-r/output/github-contribution-grid-snake.svg">
-  <img alt="Contribution snake eating my contributions" src="https://raw.githubusercontent.com/siph-r/siph-r/output/github-contribution-grid-snake-dark.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/siph-r/siph-r/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 </div>
+
+<br/>
 
 ---
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=siph-r&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=siph-r&label=█+OBSERVERS&color=00FF41&style=for-the-badge" alt="views"/>
 
 <br/><br/>
 
-*"Building scalable systems and exploring creative coding solutions."*
+```diff
+- reality is often disappointing
++ but the code never lies
+```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2563EB&height=100&section=footer&text=Thanks%20for%20visiting!%20%E2%9C%A8&fontSize=16&fontColor=ffffff&animation=twinkling" width="100%" alt="footer"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001a00,100:003300&height=90&section=footer&text=disconnecting...&fontSize=14&fontColor=00FF41&animation=twinkling" width="100%" alt="footer"/>
+
+<br/>
+
+<sub>01010011 01001001 01010000 01001000 01000101 01010010</sub>
 
 </div>
